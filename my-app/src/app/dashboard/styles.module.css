@@ -1,0 +1,33 @@
+/* styles.module.css */
+
+.dashboardcontainer {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.dashboardheader {
+  background-color: rgb(10, 10, 168);
+  color: #fff;
+  padding: 40px;
+  text-align: center;
+}
+
+.dashboardcontent {
+  flex: 1;
+  padding: 20px;
+  text-align: center;
+}
+
+.dashboardfooter {
+  background-color: rgb(68, 0, 255);
+  color: #fff;
+  padding: 35px;
+  text-align: center;
+}
+
+.a {
+  color: #fff;
+  text-decoration: none;
+}
+
