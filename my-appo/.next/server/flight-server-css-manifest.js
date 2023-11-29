@@ -7,6 +7,10 @@ self.__RSC_CSS_MANIFEST={
     "/workspaces/simuladoProvaWeb/my-appo/src/app/dashboard/page": [
       "/workspaces/simuladoProvaWeb/my-appo/src/app/dashboard/styles.module.css",
       "/workspaces/simuladoProvaWeb/my-appo/src/app/globals.css"
+    ],
+    "/workspaces/simuladoProvaWeb/my-appo/src/app/login/page": [
+      "/workspaces/simuladoProvaWeb/my-appo/src/app/login/styles.module.css",
+      "/workspaces/simuladoProvaWeb/my-appo/src/app/globals.css"
     ]
   },
   "/workspaces/simuladoProvaWeb/my-appo/src/app/page.tsx": [
@@ -17,5 +21,8 @@ self.__RSC_CSS_MANIFEST={
   ],
   "/workspaces/simuladoProvaWeb/my-appo/src/app/dashboard/page.tsx": [
     "/workspaces/simuladoProvaWeb/my-appo/src/app/dashboard/styles.module.css"
+  ],
+  "/workspaces/simuladoProvaWeb/my-appo/src/app/login/page.tsx": [
+    "/workspaces/simuladoProvaWeb/my-appo/src/app/login/styles.module.css"
   ]
 }
