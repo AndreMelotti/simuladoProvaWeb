@@ -107,6 +107,9 @@ self.__RSC_MANIFEST={
   },
   "__edge_ssr_module_mapping__": {},
   "__entry_css_files__": {
+    "/workspaces/simuladoProvaWeb/my-appo/src/app/recover/page": [
+      "static/css/_app-client_src_app_recover_styles_module_css.css"
+    ],
     "/workspaces/simuladoProvaWeb/my-appo/src/app/dashboard/page": [
       "static/css/_app-client_src_app_dashboard_styles_module_css.css"
     ],
@@ -329,6 +332,15 @@ self.__RSC_MANIFEST={
         "app-client-internals:app-client-internals"
       ],
       "async": false
+    }
+  },
+  "/workspaces/simuladoProvaWeb/my-appo/src/app/recover/styles.module.css": {
+    "default": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/_app-client_src_app_recover_styles_module_css.css"
+      ]
     }
   },
   "/workspaces/simuladoProvaWeb/my-appo/src/app/dashboard/styles.module.css": {

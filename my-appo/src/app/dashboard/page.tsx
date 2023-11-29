@@ -1,5 +1,6 @@
 import React from 'react';
 import styles from './styles.module.css';
+import { Fragment } from 'react'
 
 export default function DashBoard(){
     return(
@@ -11,7 +12,9 @@ export default function DashBoard(){
         <main className={styles.dashboardcontent}>
           <h2 className={styles.h1}>Bem-vindo ao Dashboard</h2>
           <p className={styles.p}>Aqui é possivel ver coisas relacionadas ao seu grupo do Inova week,
-          alem de muitas outras informações adicionais que quiser</p>
+          alem de muitas outras informações adicionais que quiser</p>    
+
+          
         </main>
   
         <footer className={styles.dashboardfooter}>
